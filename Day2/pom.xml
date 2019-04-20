@@ -13,7 +13,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <!--restAssured.version>6.14.3</restAssured.version-->
-    <suiteXmlFile>${platform}</suiteXmlFile>
+    <suiteXmlFile>${tesngpath}</suiteXmlFile>
   </properties>
  
   
