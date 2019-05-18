@@ -1,2 +1,2 @@
-export ANDROID_HOME=/Users/sunilkumarpatro/Library/Android/sdk
+export ANDROID_HOME=/Users/MacUserName/Library/Android/sdk
 export PATH=${PATH}:$ANDROID_HOME/emulator:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools
