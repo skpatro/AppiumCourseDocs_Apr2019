@@ -1,0 +1,12 @@
+In windows - 
+
+---Find process ID---
+netstat -ano | findstr :<yourPortNumber>
+---Kill---
+taskkill /PID <typeyourPIDhere> /F
+
+In MAC
+---To search if port is used?----
+lsof -t -i :4723 
+-----Kill ------
+kill -kill $(lsof -t -i :4723)
